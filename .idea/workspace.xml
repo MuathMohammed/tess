@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae440383-d6a4-4ade-aa14-a7b7997531db" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2PV2g2Xhyb4RD4gNorGLg4qcP7V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ASUS/Desktop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.39770114",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.demo.controllers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Desktop\test Project\Project javaFX\demo\READMEFILE" />
+      <recent name="C:\Users\ASUS\Desktop\Project javaFX\demo" />
+      <recent name="C:\Users\ASUS\Desktop\Project javaFX\demo\src\main\resources\com\example\demo\images" />
+      <recent name="C:\Users\ASUS\Desktop\Project javaFX\demo\src\main\resources\com\example\demo\views" />
+      <recent name="C:\Users\ASUS\Desktop\Project javaFX\demo\src\main\java\com\example\demo\models" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo.models" />
+      <recent name="com.example.demo.controllers" />
+      <recent name="com.example.demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="CSVTableView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.controllers.CSVTableView" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LectureAttendance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.models.LectureAttendance" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.Main" />
+      <module name="demo" />
+      <option name="VM_PARAMETERS" value="--add-exports=javafx.base/com.sun.javafx.event=org.controlsfx.controls " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CSVTableView" />
+        <item itemvalue="Application.LectureAttendance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae440383-d6a4-4ade-aa14-a7b7997531db" name="Changes" comment="" />
+      <created>1683528039683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683528039683</updated>
+      <workItem from="1683528041172" duration="3546000" />
+      <workItem from="1683599193754" duration="35960000" />
+      <workItem from="1683666116674" duration="3950000" />
+      <workItem from="1683696246695" duration="11295000" />
+      <workItem from="1683715383065" duration="5736000" />
+      <workItem from="1683724533565" duration="5827000" />
+      <workItem from="1683734663585" duration="1345000" />
+      <workItem from="1683736023871" duration="4740000" />
+      <workItem from="1683769356686" duration="5590000" />
+      <workItem from="1683777006675" duration="9457000" />
+      <workItem from="1683817473882" duration="5299000" />
+      <workItem from="1683824788087" duration="9948000" />
+      <workItem from="1683873236755" duration="309000" />
+      <workItem from="1683873986712" duration="25002000" />
+      <workItem from="1683955467482" duration="17663000" />
+      <workItem from="1683994019284" duration="4825000" />
+      <workItem from="1684045896416" duration="4184000" />
+      <workItem from="1684079231869" duration="4969000" />
+      <workItem from="1684160492428" duration="1019000" />
+      <workItem from="1684161516755" duration="33848000" />
+      <workItem from="1684266874266" duration="6215000" />
+      <workItem from="1684336919527" duration="2903000" />
+      <workItem from="1684388074678" duration="1464000" />
+      <workItem from="1684407220893" duration="7927000" />
+      <workItem from="1684470680146" duration="9666000" />
+      <workItem from="1684486130914" duration="3035000" />
+      <workItem from="1684493748403" duration="1337000" />
+      <workItem from="1684502892231" duration="28144000" />
+      <workItem from="1684651065001" duration="12948000" />
+      <workItem from="1684665426380" duration="603000" />
+      <workItem from="1684666207216" duration="226000" />
+      <workItem from="1684666459632" duration="4488000" />
+      <workItem from="1684677055132" duration="7276000" />
+      <workItem from="1684689850120" duration="2015000" />
+      <workItem from="1684726802806" duration="15705000" />
+      <workItem from="1684844480402" duration="1136000" />
+      <workItem from="1684849413419" duration="4379000" />
+      <workItem from="1684861534327" duration="2963000" />
+      <workItem from="1684910742100" duration="28997000" />
+      <workItem from="1684996548907" duration="7827000" />
+      <workItem from="1685035657884" duration="554000" />
+      <workItem from="1685086671948" duration="3358000" />
+      <workItem from="1685116821130" duration="1204000" />
+      <workItem from="1685165865885" duration="3266000" />
+      <workItem from="1685173914115" duration="19909000" />
+      <workItem from="1685267059768" duration="8925000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="date">
+                    <value>
+                      <list>
+                        <option value="1685000381297" />
+                        <option value="" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.reflect.InvocationTargetException" package="java.lang.reflect" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
